@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:20:03.043Z",
+  "generatedAt": "2026-11-22T11:39:06.161Z",
   "source": {
     "name": "Agenda d'activitats i esdeveniments de la ciutat de Barcelona",
     "dataset": "agenda-diaria",
@@ -9,41 +9,41 @@
   },
   "imagePrefix": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/",
   "counts": {
-    "total": 4510,
-    "recurrent": 2562,
-    "puntual": 1948,
-    "withInscriptionUrl": 3404,
-    "free": 1365,
-    "venues": 317,
-    "withImage": 2724,
-    "venuesWithCover": 186,
-    "fromCentres": 2420
+    "total": 4424,
+    "recurrent": 2549,
+    "puntual": 1875,
+    "withInscriptionUrl": 3349,
+    "free": 1323,
+    "venues": 311,
+    "withImage": 2684,
+    "venuesWithCover": 182,
+    "fromCentres": 2395
   },
   "barris": [
     {
       "barri": "el Barri Gòtic",
       "district": "Ciutat Vella",
-      "count": 117
+      "count": 115
     },
     {
       "barri": "el Raval",
       "district": "Ciutat Vella",
-      "count": 122
+      "count": 119
     },
     {
       "barri": "la Barceloneta",
       "district": "Ciutat Vella",
-      "count": 86
+      "count": 83
     },
     {
       "barri": "Sant Pere, Santa Caterina i la Ribera",
       "district": "Ciutat Vella",
-      "count": 83
+      "count": 80
     },
     {
       "barri": "el Fort Pienc",
       "district": "Eixample",
-      "count": 137
+      "count": 135
     },
     {
       "barri": "l'Antiga Esquerra de l'Eixample",
@@ -53,22 +53,22 @@
     {
       "barri": "la Dreta de l'Eixample",
       "district": "Eixample",
-      "count": 68
+      "count": 62
     },
     {
       "barri": "la Nova Esquerra de l'Eixample",
       "district": "Eixample",
-      "count": 63
+      "count": 59
     },
     {
       "barri": "la Sagrada Família",
       "district": "Eixample",
-      "count": 152
+      "count": 151
     },
     {
       "barri": "Sant Antoni",
       "district": "Eixample",
-      "count": 145
+      "count": 142
     },
     {
       "barri": "el Camp d'en Grassot i Gràcia Nova",
@@ -78,7 +78,7 @@
     {
       "barri": "el Coll",
       "district": "Gràcia",
-      "count": 47
+      "count": 45
     },
     {
       "barri": "la Salut",
@@ -93,7 +93,7 @@
     {
       "barri": "Vallcarca i els Penitents",
       "district": "Gràcia",
-      "count": 20
+      "count": 19
     },
     {
       "barri": "Can Baró",
@@ -113,22 +113,22 @@
     {
       "barri": "el Guinardó",
       "district": "Horta-Guinardó",
-      "count": 102
+      "count": 100
     },
     {
       "barri": "Horta",
       "district": "Horta-Guinardó",
-      "count": 102
+      "count": 100
     },
     {
       "barri": "la Font d'en Fargues",
       "district": "Horta-Guinardó",
-      "count": 14
+      "count": 13
     },
     {
       "barri": "la Teixonera",
       "district": "Horta-Guinardó",
-      "count": 61
+      "count": 57
     },
     {
       "barri": "la Vall d'Hebron",
@@ -143,12 +143,12 @@
     {
       "barri": "Sant Genís dels Agudells",
       "district": "Horta-Guinardó",
-      "count": 66
+      "count": 65
     },
     {
       "barri": "la Maternitat i Sant Ramon",
       "district": "Les Corts",
-      "count": 150
+      "count": 149
     },
     {
       "barri": "les Corts",
@@ -158,7 +158,7 @@
     {
       "barri": "Pedralbes",
       "district": "Les Corts",
-      "count": 10
+      "count": 9
     },
     {
       "barri": "Can Peguera",
@@ -178,7 +178,7 @@
     {
       "barri": "el Turó de la Peira",
       "district": "Nou Barris",
-      "count": 119
+      "count": 118
     },
     {
       "barri": "la Guineueta",
@@ -193,7 +193,7 @@
     {
       "barri": "la Trinitat Nova",
       "district": "Nou Barris",
-      "count": 13
+      "count": 12
     },
     {
       "barri": "les Roquetes",
@@ -203,7 +203,7 @@
     {
       "barri": "Porta",
       "district": "Nou Barris",
-      "count": 93
+      "count": 91
     },
     {
       "barri": "Torre Baró",
@@ -223,7 +223,7 @@
     {
       "barri": "Vilapicina i la Torre Llobeta",
       "district": "Nou Barris",
-      "count": 76
+      "count": 75
     },
     {
       "barri": "Baró de Viver",
@@ -238,17 +238,17 @@
     {
       "barri": "el Congrés i els Indians",
       "district": "Sant Andreu",
-      "count": 87
+      "count": 83
     },
     {
       "barri": "la Sagrera",
       "district": "Sant Andreu",
-      "count": 29
+      "count": 24
     },
     {
       "barri": "la Trinitat Vella",
       "district": "Sant Andreu",
-      "count": 13
+      "count": 12
     },
     {
       "barri": "Navas",
@@ -258,7 +258,7 @@
     {
       "barri": "Sant Andreu",
       "district": "Sant Andreu",
-      "count": 53
+      "count": 52
     },
     {
       "barri": "Diagonal Mar i el Front Marítim del Poblenou",
@@ -268,7 +268,7 @@
     {
       "barri": "el Besòs i el Maresme",
       "district": "Sant Martí",
-      "count": 73
+      "count": 72
     },
     {
       "barri": "el Camp de l'Arpa del Clot",
@@ -278,7 +278,7 @@
     {
       "barri": "el Clot",
       "district": "Sant Martí",
-      "count": 33
+      "count": 32
     },
     {
       "barri": "el Parc i la Llacuna del Poblenou",
@@ -288,7 +288,7 @@
     {
       "barri": "el Poblenou",
       "district": "Sant Martí",
-      "count": 109
+      "count": 107
     },
     {
       "barri": "la Verneda i la Pau",
@@ -308,12 +308,12 @@
     {
       "barri": "Sant Martí de Provençals",
       "district": "Sant Martí",
-      "count": 102
+      "count": 100
     },
     {
       "barri": "el Poble-sec",
       "district": "Sants-Montjuïc",
-      "count": 216
+      "count": 213
     },
     {
       "barri": "Hostafrancs",
@@ -328,17 +328,17 @@
     {
       "barri": "la Marina de Port",
       "district": "Sants-Montjuïc",
-      "count": 70
+      "count": 67
     },
     {
       "barri": "Sants",
       "district": "Sants-Montjuïc",
-      "count": 58
+      "count": 55
     },
     {
       "barri": "el Putxet i el Farró",
       "district": "Sarrià-Sant Gervasi",
-      "count": 132
+      "count": 127
     },
     {
       "barri": "Sant Gervasi - Galvany",
@@ -348,17 +348,17 @@
     {
       "barri": "Sant Gervasi - la Bonanova",
       "district": "Sarrià-Sant Gervasi",
-      "count": 98
+      "count": 95
     },
     {
       "barri": "Sarrià",
       "district": "Sarrià-Sant Gervasi",
-      "count": 236
+      "count": 234
     },
     {
       "barri": "Vallvidrera, el Tibidabo i les Planes",
       "district": "Sarrià-Sant Gervasi",
-      "count": 118
+      "count": 115
     }
   ],
   "districts": [
@@ -376,23 +376,23 @@
   "networks": [
     {
       "name": "Centre Cívic",
-      "count": 3380
+      "count": 3327
     },
     {
       "name": "Museu i arxiu",
-      "count": 321
+      "count": 314
     },
     {
       "name": "Casal de Barri",
-      "count": 307
+      "count": 303
     },
     {
       "name": "Centre cultural",
-      "count": 237
+      "count": 224
     },
     {
       "name": "Biblioteca",
-      "count": 138
+      "count": 131
     },
     {
       "name": "Casal de Gent Gran",
@@ -400,49 +400,49 @@
     },
     {
       "name": "Espai jove",
-      "count": 36
+      "count": 34
     }
   ],
   "types": [
     {
       "name": "Cursos i tallers",
-      "count": 2601
+      "count": 2587
     },
     {
       "name": "Espectacles i conferències",
-      "count": 400
-    },
-    {
-      "name": "Congressos, conferències i col·loquis",
       "count": 382
     },
     {
+      "name": "Congressos, conferències i col·loquis",
+      "count": 373
+    },
+    {
       "name": "Festes populars i diades",
-      "count": 380
+      "count": 371
     },
     {
       "name": "Exposicions",
-      "count": 333
+      "count": 326
     },
     {
       "name": "Visites, rutes i excursions",
-      "count": 257
+      "count": 241
     },
     {
       "name": "Concerts",
-      "count": 174
+      "count": 169
     },
     {
       "name": "Jocs",
-      "count": 124
-    },
-    {
-      "name": "Col·loquis",
       "count": 121
     },
     {
+      "name": "Col·loquis",
+      "count": 119
+    },
+    {
       "name": "Cinema i projeccions circuit no comercial",
-      "count": 116
+      "count": 112
     },
     {
       "name": "Bals folcklòrics",
@@ -454,11 +454,11 @@
     },
     {
       "name": "Itineraris, recorreguts, rutes",
-      "count": 21
+      "count": 18
     },
     {
       "name": "Premis, concursos i gales",
-      "count": 19
+      "count": 17
     },
     {
       "name": "Balls populars",
@@ -488,23 +488,23 @@
   "topics": [
     {
       "name": "Tallers Culturals",
-      "count": 1999
+      "count": 1995
     },
     {
       "name": "Espectacles i conferències",
-      "count": 400
+      "count": 382
     },
     {
       "name": "Música",
-      "count": 275
+      "count": 267
     },
     {
       "name": "Lletres i biblioteques",
-      "count": 236
+      "count": 228
     },
     {
       "name": "Música, dansa, teatre, circ",
-      "count": 226
+      "count": 224
     },
     {
       "name": "Idiomes",
@@ -512,27 +512,27 @@
     },
     {
       "name": "Literatura",
-      "count": 167
-    },
-    {
-      "name": "Teatre, circ i dansa",
-      "count": 152
+      "count": 163
     },
     {
       "name": "Dansa",
-      "count": 147
+      "count": 145
     },
     {
-      "name": "Teatre",
-      "count": 135
+      "name": "Teatre, circ i dansa",
+      "count": 143
     },
     {
       "name": "Fotografia",
-      "count": 134
+      "count": 133
     },
     {
       "name": "Salut i creixement personal",
-      "count": 131
+      "count": 130
+    },
+    {
+      "name": "Teatre",
+      "count": 130
     },
     {
       "name": "Expressió",
@@ -540,31 +540,31 @@
     },
     {
       "name": "Cinema",
-      "count": 120
+      "count": 116
     },
     {
       "name": "Cultura general",
-      "count": 119
+      "count": 115
     },
     {
       "name": "Salut i Creix. Pers.",
       "count": 103
     },
     {
-      "name": "Manualitats i artesania",
-      "count": 69
-    },
-    {
-      "name": "Ciències socials",
-      "count": 68
-    },
-    {
       "name": "Recursos",
       "count": 68
     },
     {
+      "name": "Ciències socials",
+      "count": 66
+    },
+    {
+      "name": "Manualitats i artesania",
+      "count": 64
+    },
+    {
       "name": "Salut i Benestar",
-      "count": 62
+      "count": 63
     },
     {
       "name": "Cos i moviment",
@@ -580,7 +580,7 @@
     },
     {
       "name": "Arts Escèniques",
-      "count": 53
+      "count": 52
     },
     {
       "name": "Expressio Plastica",
@@ -588,7 +588,7 @@
     },
     {
       "name": "Pintura",
-      "count": 49
+      "count": 48
     },
     {
       "name": "Esports i expressió corporal",
@@ -596,27 +596,27 @@
     },
     {
       "name": "Solidaritat i sensibilització",
-      "count": 44
+      "count": 41
     },
     {
       "name": "Lleure",
-      "count": 42
-    },
-    {
-      "name": "Arquitectura",
       "count": 39
     },
     {
-      "name": "Medi ambient, sostenible, ecologia",
-      "count": 36
+      "name": "Arquitectura",
+      "count": 38
     },
     {
       "name": "Cuina i gastronomia",
       "count": 36
     },
     {
+      "name": "Medi ambient, sostenible, ecologia",
+      "count": 34
+    },
+    {
       "name": "Música clàssica",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Salut i activitat física",
@@ -639,10 +639,6 @@
       "count": 29
     },
     {
-      "name": "Urbanisme",
-      "count": 29
-    },
-    {
       "name": "SALUT I CREIXEMENT PERSONAL : Activitats físiques que afavoreixen la salut",
       "count": 28
     },
@@ -655,7 +651,7 @@
       "count": 27
     },
     {
-      "name": "Itineraris",
+      "name": "Urbanisme",
       "count": 27
     },
     {
@@ -667,16 +663,16 @@
       "count": 26
     },
     {
+      "name": "Itineraris",
+      "count": 24
+    },
+    {
       "name": "Tallers Familiars",
       "count": 24
     },
     {
       "name": "Arts plàstiques",
       "count": 22
-    },
-    {
-      "name": "Costura i moda",
-      "count": 21
     },
     {
       "name": "Instruments musicals",
@@ -699,12 +695,12 @@
       "count": 20
     },
     {
-      "name": "Activitats d'art tèxtil",
+      "name": "Gastronomia i alimentació",
       "count": 20
     },
     {
-      "name": "Gastronomia i alimentació",
-      "count": 20
+      "name": "Costura i moda",
+      "count": 19
     },
     {
       "name": "Circ",
@@ -727,12 +723,12 @@
       "count": 18
     },
     {
-      "name": "Raco Inf. i Juv.",
+      "name": "Activitats d'art tèxtil",
       "count": 18
     },
     {
-      "name": "Arqueologia",
-      "count": 17
+      "name": "Raco Inf. i Juv.",
+      "count": 18
     },
     {
       "name": "A Taula ! Activitats Culturals",
@@ -751,23 +747,15 @@
       "count": 16
     },
     {
-      "name": "Espectacles",
-      "count": 16
-    },
-    {
-      "name": "Entrades Auditori",
-      "count": 16
-    },
-    {
       "name": "Cant coral",
       "count": 16
     },
     {
-      "name": "Treballs manuals",
+      "name": "Arqueologia",
       "count": 15
     },
     {
-      "name": "Petit Pantalla",
+      "name": "Treballs manuals",
       "count": 15
     },
     {
@@ -775,7 +763,19 @@
       "count": 15
     },
     {
+      "name": "Espectacles",
+      "count": 15
+    },
+    {
       "name": "Art i Disseny",
+      "count": 14
+    },
+    {
+      "name": "Petit Pantalla",
+      "count": 14
+    },
+    {
+      "name": "Entrades Auditori",
       "count": 14
     },
     {
@@ -887,10 +887,6 @@
       "count": 9
     },
     {
-      "name": "Rock",
-      "count": 9
-    },
-    {
       "name": "Il.lustracions",
       "count": 9
     },
@@ -939,14 +935,6 @@
       "count": 8
     },
     {
-      "name": "Titelles",
-      "count": 8
-    },
-    {
-      "name": "Barcelona Districte Cultural",
-      "count": 8
-    },
-    {
       "name": "Concerts",
       "count": 8
     },
@@ -964,10 +952,6 @@
     },
     {
       "name": "Autoaprenentatge per cooperació veinal",
-      "count": 7
-    },
-    {
-      "name": "Esports",
       "count": 7
     },
     {
@@ -1011,7 +995,7 @@
       "count": 7
     },
     {
-      "name": "Activitats de l'aula ambiental",
+      "name": "Rock",
       "count": 7
     },
     {
@@ -1023,11 +1007,11 @@
       "count": 7
     },
     {
-      "name": "Ceràmica",
+      "name": "Cant",
       "count": 6
     },
     {
-      "name": "Cant",
+      "name": "Esports",
       "count": 6
     },
     {
@@ -1055,7 +1039,7 @@
       "count": 6
     },
     {
-      "name": "Espectacles infantils i Familiars",
+      "name": "Activitats de l'aula ambiental",
       "count": 6
     },
     {
@@ -1075,15 +1059,15 @@
       "count": 6
     },
     {
+      "name": "Ceràmica",
+      "count": 5
+    },
+    {
       "name": "Jardineria",
       "count": 5
     },
     {
       "name": "Escola d'Arts Escèniques Tísner (4 a 17 anys)",
-      "count": 5
-    },
-    {
-      "name": "Arts Plàstiques i Arts Visuals",
       "count": 5
     },
     {
@@ -1115,14 +1099,6 @@
       "count": 5
     },
     {
-      "name": "Música electrònica, techno, dance",
-      "count": 5
-    },
-    {
-      "name": "Càpsules",
-      "count": 5
-    },
-    {
       "name": "Sessions de Planetari | Adults",
       "count": 5
     },
@@ -1132,6 +1108,10 @@
     },
     {
       "name": "Xerrades",
+      "count": 5
+    },
+    {
+      "name": "Titelles",
       "count": 5
     },
     {
@@ -1148,6 +1128,10 @@
     },
     {
       "name": "Cicle Cinema",
+      "count": 5
+    },
+    {
+      "name": "Espectacles infantils i Familiars",
       "count": 5
     },
     {
@@ -1175,6 +1159,10 @@
       "count": 4
     },
     {
+      "name": "Arts Plàstiques i Arts Visuals",
+      "count": 4
+    },
+    {
       "name": "Arts visuals",
       "count": 4
     },
@@ -1191,14 +1179,6 @@
       "count": 4
     },
     {
-      "name": "(in)fusión flamenca",
-      "count": 4
-    },
-    {
-      "name": "Accions D'art",
-      "count": 4
-    },
-    {
       "name": "Especialització de Medi Ambient",
       "count": 4
     },
@@ -1207,7 +1187,19 @@
       "count": 4
     },
     {
+      "name": "Càpsules",
+      "count": 4
+    },
+    {
+      "name": "Música electrònica, techno, dance",
+      "count": 4
+    },
+    {
       "name": "En Família",
+      "count": 4
+    },
+    {
+      "name": "Barcelona Districte Cultural",
       "count": 4
     },
     {
@@ -1220,10 +1212,6 @@
     },
     {
       "name": "RECURSOS-Faciliten Recursos Personals",
-      "count": 3
-    },
-    {
-      "name": "Pallassos",
       "count": 3
     },
     {
@@ -1255,27 +1243,11 @@
       "count": 3
     },
     {
+      "name": "(in)fusión flamenca",
+      "count": 3
+    },
+    {
       "name": "A taula! Tallers de cuina",
-      "count": 3
-    },
-    {
-      "name": "Video i DVD",
-      "count": 3
-    },
-    {
-      "name": "Pop",
-      "count": 3
-    },
-    {
-      "name": "Infantil",
-      "count": 3
-    },
-    {
-      "name": "Conferències i Xerrades",
-      "count": 3
-    },
-    {
-      "name": "Activitats i Espectacles Familiars",
       "count": 3
     },
     {
@@ -1296,6 +1268,10 @@
     },
     {
       "name": "Tecnologia digital",
+      "count": 3
+    },
+    {
+      "name": "Accions D'art",
       "count": 3
     },
     {
@@ -1351,6 +1327,10 @@
       "count": 2
     },
     {
+      "name": "Pallassos",
+      "count": 2
+    },
+    {
       "name": "Informàtica i Comunitat Digital",
       "count": 2
     },
@@ -1403,23 +1383,15 @@
       "count": 2
     },
     {
-      "name": "Ball",
-      "count": 2
-    },
-    {
-      "name": "#elravalésverd",
-      "count": 2
-    },
-    {
-      "name": "Farinera Itineraris",
-      "count": 2
-    },
-    {
       "name": "Maquetes",
       "count": 2
     },
     {
       "name": "De Marxa Creativa",
+      "count": 2
+    },
+    {
+      "name": "Video i DVD",
       "count": 2
     },
     {
@@ -1432,10 +1404,6 @@
     },
     {
       "name": "Xerrades de ciència",
-      "count": 2
-    },
-    {
-      "name": "Itinerari",
       "count": 2
     },
     {
@@ -1499,11 +1467,19 @@
       "count": 2
     },
     {
+      "name": "Conferències i Xerrades",
+      "count": 2
+    },
+    {
       "name": "Ravalejant",
       "count": 2
     },
     {
       "name": "Clàssica i Altres Veus",
+      "count": 2
+    },
+    {
+      "name": "Pop",
       "count": 2
     },
     {
@@ -1523,7 +1499,15 @@
       "count": 2
     },
     {
+      "name": "Infantil",
+      "count": 2
+    },
+    {
       "name": "Puntuals Familiars",
+      "count": 2
+    },
+    {
+      "name": "Activitats i Espectacles Familiars",
       "count": 2
     },
     {
@@ -1600,10 +1584,6 @@
     },
     {
       "name": "Informàtica i Multimedia",
-      "count": 1
-    },
-    {
-      "name": "Visites culturals i itineraris de natura",
       "count": 1
     },
     {
@@ -1711,6 +1691,10 @@
       "count": 1
     },
     {
+      "name": "Ball",
+      "count": 1
+    },
+    {
       "name": "Vespres de Jazz",
       "count": 1
     },
@@ -1751,6 +1735,10 @@
       "count": 1
     },
     {
+      "name": "Farinera Itineraris",
+      "count": 1
+    },
+    {
       "name": "Farinera Familiar",
       "count": 1
     },
@@ -1787,6 +1775,10 @@
       "count": 1
     },
     {
+      "name": "#elravalésverd",
+      "count": 1
+    },
+    {
       "name": "Ràdio i pòdcast",
       "count": 1
     },
@@ -1816,6 +1808,10 @@
     },
     {
       "name": "Estètica",
+      "count": 1
+    },
+    {
+      "name": "Itinerari",
       "count": 1
     }
   ]
